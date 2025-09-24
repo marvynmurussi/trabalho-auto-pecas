@@ -1,0 +1,35 @@
+
+Tabelas do banco de dados para o cliente
+
+Clientes  
+- `id_cliente`
+
+para logar:  
+- `nome`  
+- `cpf/cnpj` 
+- `telefone`  
+- `email`  
+- `endereco`  
+
+Pedidos
+- `id_nota`   
+- `id_fornecedor`   
+- `data_pedido`  
+- `valor_total`  
+
+Vendas
+- `id_venda`   
+- `id_cliente`   
+- `data_venda`  
+- `valor_total`  
+- `status`
+
+
+produtos  
+- `id_item`   
+- `id_venda`   
+- `id_peca`   
+- `quantidade`  
+- 'preco_unitario'  
+
+
