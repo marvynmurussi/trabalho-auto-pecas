@@ -1,0 +1,22 @@
+Clientes:
+- Nome
+- CPF (PK)
+- Telefone
+- Modelo do carro e ano dele 
+- E-mail
+- Data de nascimento 
+
+Vendas:
+- Id da venda
+- Nome do cliente
+- Data da venda
+- Valor total
+- Status da venda
+
+Produtos:
+- Nome do produto 
+- Quantidade 
+- Observação 
+- Status
+- Preço 
+- Código de barras (id do produto)
