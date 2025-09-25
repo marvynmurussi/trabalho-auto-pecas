@@ -15,6 +15,7 @@ Vendas:
 - Valor total
 - Status da venda
 - Nome do produto
+- Nome do produto - chave estrangeira
 - Quantidade vendida
 
 Produtos:
