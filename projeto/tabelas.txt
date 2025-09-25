@@ -10,14 +10,15 @@ Vendas:
 - Id da venda(PK)
 - Nome do cliente
 - Nome do cliente(cpf)
+- Nome do cliente(cpf) - chave estrangeira
 - Data da venda
 - Valor total
 - Status da venda
+- Nome do produto
 - Quantidade vendida
 
 Produtos:
 - Nome do produto 
-- Quantidade 
 - Quantidade de produto
 - Observação 
 - Status
