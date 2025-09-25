@@ -7,7 +7,6 @@ Clientes:
 - Data de nascimento 
 
 Vendas:
-- Id da venda
 - Id da venda(PK)
 - Nome do cliente
 - Data da venda
@@ -20,4 +19,4 @@ Produtos:
 - Observação 
 - Status
 - Preço 
-- Código de barras (id do produto)- Código de barras (id do produto)(PK)
+- Código de barras (id do produto)(PK)
